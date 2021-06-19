@@ -1,4 +1,4 @@
-# Banking_APP
+# Basic Banking Application
 
 # It is Basic Banking Application internship oppurtunity given to me by The Sparks Foundation.
 
